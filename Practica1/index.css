@@ -1,0 +1,33 @@
+html{
+    background-color:  rgb(0, 12, 81);
+}
+
+.container{
+    color: antiquewhite;
+    margin: auto;
+    padding: 10px;
+    background-color: rgb(0, 12, 81);
+    display: block;
+    max-width: 1200px;
+    min-width: 340px;
+}
+
+.prim{
+    margin: auto;
+    background-color: green;
+    padding: 20px;
+    margin: 20px;
+    width: 25%;
+    border-radius: 20px;
+    display: block;
+}
+
+.secun{
+    margin: auto;
+    width: 25%;
+    background-color: green;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    display: block;
+}
